@@ -20,6 +20,17 @@ A modern RESTful Web API built with **ASP.NET Core (.NET 10)** and **Entity Fram
 - **API Documentation**: Swagger/Swashbuckle
 - **Language**: C# 14
 
+  ### Package References
+
+The project uses the following NuGet packages:
+
+- `Microsoft.EntityFrameworkCore` (10.0.0)
+- `Microsoft.EntityFrameworkCore.SqlServer` (10.0.0)
+- `Microsoft.EntityFrameworkCore.Tools` (10.0.0)
+- `Microsoft.AspNetCore.OpenApi` (10.0.0)
+- `Swashbuckle.AspNetCore.Swagger` (10.0.1)
+- `Swashbuckle.AspNetCore.SwaggerGen` (10.0.1)
+
 ## Prerequisites
 
 Before running this project, ensure you have the following installed:
@@ -80,8 +91,8 @@ dotnet run
 ```
 
 The API will start and be available at:
-- **HTTPS**: `https://localhost:7286`
-- **HTTP**: `http://localhost:5212`
+- **HTTPS**: `https://localhost:7***`
+- **HTTP**: `http://localhost:5***`
 
 ### 5. Access Swagger UI
 
@@ -91,7 +102,6 @@ https://localhost:7286/swagger/index.html
 ```
 
 This will open the interactive Swagger UI where you can test all API endpoints.
-
 
 ## Contributing
 
