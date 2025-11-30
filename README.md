@@ -55,12 +55,14 @@ Update the connection string in `appsettings.json` to match your SQL Server inst
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=YOUR_SERVER_NAME\\SQLEXPRESS;Database=demo;Trusted_Connection=True;TrustServerCertificate=True;MultipleActiveResultSets=True"
+    "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=YOUR_DB_NAME;Trusted_Connection=True;TrustServerCertificate=True;MultipleActiveResultSets=True"
   }
 }
 ```
 
-> **Note**: Replace `YOUR_SERVER_NAME` with your actual SQL Server instance name.
+> **Note**:
+> - Replace `YOUR_SERVER_NAME` with your actual SQL Server instance name.
+> - Replace `YOUR_DB_NAME` with your actual Database name
 
 ### 3. Apply Database Migrations
 
