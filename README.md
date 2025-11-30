@@ -20,7 +20,7 @@ A modern RESTful Web API built with **ASP.NET Core (.NET 10)** and **Entity Fram
 - **API Documentation**: Swagger/Swashbuckle
 - **Language**: C# 14
 
-  ### Package References
+## Package References
 
 The project uses the following NuGet packages:
 
