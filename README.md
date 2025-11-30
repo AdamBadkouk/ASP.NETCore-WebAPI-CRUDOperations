@@ -4,13 +4,13 @@ A modern RESTful Web API built with **ASP.NET Core (.NET 10)** and **Entity Fram
 
 ## Key Features
 
-- ✅ **Full CRUD Operations** - Create, Read, Update, and Delete 
-- ✅ **RESTful API Design** - Follows REST architectural principles
-- ✅ **Entity Framework Core** - Code-first database approach with migrations
-- ✅ **SQL Server Integration** - Robust database connectivity
-- ✅ **Swagger/OpenAPI** - Interactive API documentation and testing
-- ✅ **Async/Await Pattern** - Asynchronous operations for better performance
-- ✅ **Clean Architecture** - Organized project structure with separation of concerns
+- **Full CRUD Operations** - Create, Read, Update, and Delete 
+- **RESTful API Design** - Follows REST architectural principles
+- **Entity Framework Core** - Code-first database approach with migrations
+- **SQL Server Integration** - Robust database connectivity
+- **Swagger/OpenAPI** - Interactive API documentation and testing
+- **Async/Await Pattern** - Asynchronous operations for better performance
+- **Clean Architecture** - Organized project structure with separation of concerns
 
 ## Technologies Used
 
@@ -104,4 +104,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 
-**Happy Coding! 🚀**
+**Happy Coding! **
